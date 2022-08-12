@@ -1,0 +1,59 @@
+ 
+Reference
+________________________________________
+1.	Visual Studio Code 
+(IDE, which enables programmers to consolidate the different aspects of writing a computer program.)
+https://code.visualstudio.com/docs/languages/javascript
+Recommended Extension for Javascript: 
+•	GitLen, 
+•	Code Spell Checker, 
+•	Debugger for Chrome, 
+•	Prettier (Uncheck the auto semicolon option)
+ 
+1.	Javascript - ES6 
+(e.g. Arrow Function, Function Rest Parameter, Array.map() )
+JavaScript ES6 (EcmaScript 2015)
+ 
+1.	React.JS 
+Focus on Functional Component
+Stage 1 - Idea of React:(State and Props) 
+https://zh-hant.reactjs.org/tutorial/tutorial.html
+Stage 2 - React Documentation:(Life Cycle, Hooks, JSX)
+https://zh-hant.reactjs.org/docs/getting-started.html
+ 
+1.	Gatsby JS (Static Site Generator)
+https://www.gatsbyjs.com/docs/tutorial/
+https://www.gatsbyjs.com/docs/how-to/
+ 
+1.	Ant Design (React UI library)
+https://ant.design/docs/react/getting-started
+ 
+1.	Less.js (language extension for CSS)
+https://lesscss.org/
+ 
+1.	Netifly (serverless platform to build and deploy, on web apps)
+https://www.gatsbyjs.com/docs/how-to/previews-deploys-hosting/deploying-to-netlify/
+ 
+
+ 
+ 
+1.	Git Commit 格式:
+ 
+Type -  <描述/>
+ 
+Feat: 新加/修改功能
+ 
+Remove: 移除功能/組件
+ 
+Style: 改善Layout (Css, 串字, layout 的變動)
+ 
+Perf: 改善代碼質素
+ 
+Fix: 除錯
+ 
+Refactor: 文件結構上的改變
+ 
+Ignore: 可以忽視
+ 
+例子:  Feat - 新增服務頁面
+
